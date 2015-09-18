@@ -1,3 +1,10 @@
+/**
+   \file jeux.c
+   \brief fichier contenant le code du jeux ainsi que ces fonctions auxilliaires  
+   \author Nizar ABAK-KALI
+   \date 18/09/2015
+*/
+
 #include "jeux.h"
 
 void presentation(){
