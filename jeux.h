@@ -1,5 +1,5 @@
-#ifndef  __JEUX_H__ 
-#define __JEUX_H__
+#ifndef  _JEUX_H__ 
+#define _JEUX_H__
 
 #include<stdio.h>
 #include<stdlib.h>
