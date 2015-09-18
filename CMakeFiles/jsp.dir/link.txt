@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/jsp.dir/jeux.c.o CMakeFiles/jsp.dir/main.c.o  -o jsp -rdynamic 
