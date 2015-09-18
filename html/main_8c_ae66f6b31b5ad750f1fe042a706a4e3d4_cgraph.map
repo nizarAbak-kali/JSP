@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$jeux_8c.html#aaed76b7be3be8342935cfcb63c4845c6" title="fonction principale contenant la mecanique de jeu . " alt="" coords="105,31,143,57"/>
+<area shape="rect" id="node3" href="$jeux_8c.html#a365cddcbb18ee51a2b3aa4695ea2ad23" title="petit affiche en debut de jeu . " alt="" coords="192,5,285,32"/>
+<area shape="rect" id="node4" href="$jeux_8c.html#a5cdf99dec240eb39a0688bb7ee0ba94c" title="recuperation du nom du joueur . " alt="" coords="195,56,282,83"/>
+</map>
